@@ -1,0 +1,5 @@
+aiogram
+beautifulsoup4
+lxml
+aiohttp
+python-dotenv
